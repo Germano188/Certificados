@@ -16,3 +16,10 @@ Conhecer as funcionalidades da ferramenta
 A criar componentes reutilizáveis que otimizam o trabalho de prototipação
 Configurar um protótipo navegável
 Compartilhar o projeto e receber feedbacks
+
+
+
+Professor:
+Willian Zarpellon
+Engenheiro de Software / Desenvolvedor de Games
+Meu nome é Willian, sou de Ponta Grossa Paraná, profissional com mais de 9 anos experiência na área de Desenvolvimento Web. Formado em Tecnologia e Sistemas para Internet e sócio proprietário na empresa Websix. Conquistei o prêmio estadual de 2º Lugar do Paraná na categoria Webdesigner (Olimpíada do conhecimento SENAI 2011). Fundador do site Polar Games e Cursae, onde dedico meu tempo ministrando cursos online para mais de 15.000 alunos que tenham interesse na área de desenvolvimento de jogos online e conteúdo web.
